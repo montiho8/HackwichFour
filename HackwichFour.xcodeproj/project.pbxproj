@@ -13,6 +13,7 @@
 		8C14F80228E5740E00B053F8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C14F80128E5740E00B053F8 /* Preview Assets.xcassets */; };
 		8C14F80928E5758500B053F8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C14F80828E5758500B053F8 /* ViewController.swift */; };
 		8C6573EC28E57B940076DA23 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C6573EB28E57B940076DA23 /* secondViewController.swift */; };
+		8C78082528E581D70049E504 /* thirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C78082428E581D70049E504 /* thirdViewController.swift */; };
 		8CEE023F28E5787600383235 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CEE023E28E5787600383235 /* Storyboard.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -24,6 +25,7 @@
 		8C14F80128E5740E00B053F8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8C14F80828E5758500B053F8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8C6573EB28E57B940076DA23 /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
+		8C78082428E581D70049E504 /* thirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdViewController.swift; sourceTree = "<group>"; };
 		8CEE023E28E5787600383235 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -42,6 +44,7 @@
 			isa = PBXGroup;
 			children = (
 				8CEE023E28E5787600383235 /* Storyboard.storyboard */,
+				8C78082428E581D70049E504 /* thirdViewController.swift */,
 				8C14F80828E5758500B053F8 /* ViewController.swift */,
 				8C6573EB28E57B940076DA23 /* secondViewController.swift */,
 				8C14F7F928E5740D00B053F8 /* HackwichFour */,
@@ -149,6 +152,7 @@
 			files = (
 				8C6573EC28E57B940076DA23 /* secondViewController.swift in Sources */,
 				8C14F80928E5758500B053F8 /* ViewController.swift in Sources */,
+				8C78082528E581D70049E504 /* thirdViewController.swift in Sources */,
 				8C14F7FD28E5740D00B053F8 /* ContentView.swift in Sources */,
 				8C14F7FB28E5740D00B053F8 /* HackwichFourApp.swift in Sources */,
 			);
